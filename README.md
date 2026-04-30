@@ -7,6 +7,7 @@ I am a Second-year Computer Engineering student with a strong interest in coding
 
 
 # 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s.divyaaaa)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/indresh-suresh-093646399) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/TomatoCurious4898) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:indreshsuresh95@gmail.com) 
 
 
