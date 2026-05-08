@@ -1,10 +1,9 @@
-<p align="center">
-  <img src="assets/intro.gif" width="100%" />
-</p>
-
 # 💫 About Me:
 🚀 Second-year Computer Engineering student passionate about coding, problem-solving, and building real-world projects. Skilled in C, Python, Java, HTML, CSS, JavaScript, and exploring game development with Godot. I enjoy learning new technologies, creating practical applications, and improving my skills through hands-on projects and continuous experimentation.
 
+<p align="center">
+  <img src="assets/intro.gif" width="100%" />
+</p>
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_s.divyaaaa)
