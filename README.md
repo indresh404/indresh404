@@ -3,7 +3,7 @@
 </p>
 
 # 💫 About Me:
-I am a Second-year Computer Engineering student with a strong interest in coding and technology. I enjoy learning programming languages like C, Python, Java, and working with web technologies such as HTML, CSS, and JavaScript. I also explore game development using Godot and enjoy building practical projects that combine creativity with logic. My goal is to continuously improve my problem-solving skills and create real-world applications through code.<br>I am a passionate Computer Engineering student who enjoys turning ideas into working software. I have experience with C, Python, Java, and web development, and I actively build projects such as games, web systems, and technical tools. I like learning new technologies, solving coding challenges, and improving my logical thinking through hands-on practice.<br>Coding is more than just a subject for me – it’s something I genuinely enjoy. I like experimenting with different programming languages, building small projects, and even creating games using Godot. Whether it’s web development, data structures, or automation, I always try to learn by doing and improving my skills step by step.
+🚀 Second-year Computer Engineering student passionate about coding, problem-solving, and building real-world projects. Skilled in C, Python, Java, HTML, CSS, JavaScript, and exploring game development with Godot. I enjoy learning new technologies, creating practical applications, and improving my skills through hands-on projects and continuous experimentation.
 
 
 # 🌐 Socials:
@@ -19,17 +19,29 @@ I am a Second-year Computer Engineering student with a strong interest in coding
   <img src="assets/lets_code.gif" width="400" />
 </p>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=indresh404&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=indresh404&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=indresh404&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats
+
+<table>
+<tr>
+<td width="50%">
+
+![](https://github-readme-stats.shion.dev/api?username=indresh404&theme=github_dark&hide_border=false&include_all_commits=false&count_private=false)
+
+</td>
+<td width="50%">
+
+![](https://streak-stats.demolab.com?user=indresh404&theme=github-dark&hide_border=false)
+
+</td>
+</tr>
+</table>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=indresh404&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+![](./profile-3d-contrib/profile-night-green.svg)
 
 [![Indresh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=indresh404&theme=react-dark)](https://github.com/indresh404)
-
 ---
 ![Profile Views](https://komarev.com/ghpvc/?username=indresh404&color=blue)
