@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.5" />
+  <rect x="4" y="4" width="3" height="3" fill="#58A6FF" />
+  <rect x="57" y="4" width="3" height="3" fill="#58A6FF" />
+  <rect x="4" y="57" width="3" height="3" fill="#58A6FF" />
+  <rect x="57" y="57" width="3" height="3" fill="#58A6FF" />
+
+  <!-- Digital ID Card Frame -->
+  <rect x="15" y="14" width="34" height="36" rx="4" fill="#0D1117" stroke="#58A6FF" stroke-width="1.5" />
+  <rect x="23" y="11" width="18" height="3" rx="1.5" fill="#30363D" />
+
+  <!-- User Avatar inside ID -->
+  <circle cx="32" cy="24" r="5" fill="#39D353" />
+  <path d="M 24 36 C 24 31, 40 31, 40 36" fill="#39D353" />
+
+  <!-- Verification Checkmark / Opportunity star -->
+  <circle cx="41" cy="42" r="5" fill="#161B22" stroke="#39D353" stroke-width="1.2" />
+  <path d="M 39 42 L 41 44 L 44 40" stroke="#39D353" stroke-width="1.2" fill="none" />
+
+  <rect x="20" y="40" width="10" height="2" fill="#58A6FF" />
+  <rect x="20" y="44" width="7" height="2" fill="#8B949E" />
+</svg>

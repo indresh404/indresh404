@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 46" width="100%" height="100%">
+  <defs>
+    <style>
+      .term { font-family: 'JetBrains Mono', 'Fira Code', 'Courier New', monospace; }
+    </style>
+  </defs>
+  <!-- Background bar -->
+  <rect x="0" y="3" width="900" height="40" rx="6" fill="#161B22" stroke="#30363D" stroke-width="1" />
+  
+  <!-- Left Neon Accent Pill -->
+  <rect x="6" y="9" width="4" height="28" rx="2" fill="#39D353" />
+
+  <!-- Terminal Heading Prompt -->
+  <text x="22" y="28" fill="#39D353" font-size="16" class="term" font-weight="900">&gt;</text>
+  <text x="38" y="28" fill="#39D353" font-size="15" class="term" font-weight="800" letter-spacing="1.5">TECH STACK</text>
+  
+  <!-- Dashed divider line extending across -->
+  <line x1="200" y1="23" x2="650" y2="23" stroke="#30363D" stroke-width="1.2" stroke-dasharray="4,4" />
+
+  <!-- Subtitle -->
+  <text x="665" y="27" fill="#6E7681" font-size="11" class="term" font-weight="500">// LANGUAGES, FRAMEWORKS &amp; ARCHITECTURE MATRIX</text>
+
+  <!-- Right Terminal Decorative Code -->
+  <circle cx="882" cy="23" r="3" fill="#39D353" />
+</svg>

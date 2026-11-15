@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64">
+  <rect width="64" height="64" rx="8" fill="#161B22" stroke="#30363D" stroke-width="1.5" />
+  <rect x="4" y="4" width="3" height="3" fill="#E3B341" />
+  <rect x="57" y="4" width="3" height="3" fill="#E3B341" />
+  <rect x="4" y="57" width="3" height="3" fill="#E3B341" />
+  <rect x="57" y="57" width="3" height="3" fill="#E3B341" />
+
+  <!-- Shield Outline -->
+  <path d="M 32 12 L 48 18 C 48 34, 38 46, 32 50 C 26 46, 16 34, 16 18 Z" 
+        fill="#0D1117" stroke="#39D353" stroke-width="2" stroke-linejoin="round" />
+
+  <!-- AI Brain / Circuit Network inside Shield -->
+  <circle cx="32" cy="27" r="3" fill="#58A6FF" />
+  <circle cx="26" cy="34" r="2.5" fill="#39D353" />
+  <circle cx="38" cy="34" r="2.5" fill="#39D353" />
+  <circle cx="32" cy="40" r="2.5" fill="#E3B341" />
+
+  <line x1="32" y1="27" x2="26" y2="34" stroke="#58A6FF" stroke-width="1.5" />
+  <line x1="32" y1="27" x2="38" y2="34" stroke="#58A6FF" stroke-width="1.5" />
+  <line x1="26" y1="34" x2="32" y2="40" stroke="#39D353" stroke-width="1.5" />
+  <line x1="38" y1="34" x2="32" y2="40" stroke="#39D353" stroke-width="1.5" />
+</svg>
