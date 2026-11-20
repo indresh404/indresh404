@@ -127,7 +127,6 @@
 </table>
 
 
-
 <!-- ================================================================= -->
 <!--           4. HACKATHON ACHIEVEMENTS — BADGE SHOWCASE              -->
 <!-- ================================================================= -->
@@ -136,34 +135,45 @@
 
 <br /><br />
 
-<!-- HORIZONTAL ROW OF 6 HACKATHON BADGES (CLICK TO ENLARGE) -->
 <div align="center">
-  <a href="assets/1.png" target="_blank" title="View Full Badge 1">
-    <img src="assets/1.png" width="95" height="95" alt="Hackathon Badge 1" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="assets/2.png" target="_blank" title="View Full Badge 2">
-    <img src="assets/2.png" width="95" height="95" alt="Hackathon Badge 2" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="assets/3.png" target="_blank" title="View Full Badge 3">
-    <img src="assets/3.png" width="95" height="95" alt="Hackathon Badge 3" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="assets/4.png" target="_blank" title="View Full Badge 4">
-    <img src="assets/4.png" width="95" height="95" alt="Hackathon Badge 4" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="assets/5.png" target="_blank" title="View Full Badge 5">
-    <img src="assets/5.png" width="95" height="95" alt="Hackathon Badge 5" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="assets/6.png" target="_blank" title="View Full Badge 6">
-    <img src="assets/6.png" width="95" height="95" alt="Hackathon Badge 6" />
-  </a>
+  <table>
+    <tr>
+      <td align="center">
+        <a href="assets/1.png" target="_blank">
+          <img src="assets/1.png" width="125" alt="Achievement 1" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="assets/2.png" target="_blank">
+          <img src="assets/2.png" width="125" alt="Achievement 2" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="assets/3.png" target="_blank">
+          <img src="assets/3.png" width="125" alt="Achievement 3" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="assets/4.png" target="_blank">
+          <img src="assets/4.png" width="125" alt="Achievement 4" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="assets/5.png" target="_blank">
+          <img src="assets/5.png" width="125" alt="Achievement 5" />
+        </a>
+      </td>
+      <td align="center">
+        <a href="assets/6.png" target="_blank">
+          <img src="assets/6.png" width="125" alt="Achievement 6" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br />
+
 
 <!-- VERIFIED MILESTONES & ACHIEVEMENTS LOG -->
 <table width="100%">
