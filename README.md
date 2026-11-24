@@ -72,7 +72,7 @@
 
 <img src="assets/headers/header-projects.svg" width="900%" alt="Section: Projects" />
 
-<br /><br />
+<br />
 
 <!-- TOP 4 PROJECTS: AGRIVYAAN, SWASTHYA AI, HACKNEXT, SYNDEO -->
 <table width="100%">
